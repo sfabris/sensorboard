@@ -1,0 +1,78 @@
+EESchema-DOCLIB  Version 2.0  Date: 7/17/2014 10:36:33 AM
+#
+$CMP JST_SH_02
+D JST 2 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_03
+D JST 3 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_04
+D JST 4 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_05
+D JST 5 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_06
+D JST 6 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_07
+D JST 7 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_08
+D JST 8 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_09
+D JST 9 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_10
+D JST 10 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_11
+D JST 11 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_12
+D JST 12 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_13
+D JST 13 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_14
+D JST 14 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_15
+D JST 15 pin SH connector
+K CONN
+$ENDCMP
+#
+$CMP JST_SH_20
+D JST  20 pin SH connector
+K CONN
+$ENDCMP
+#
+#End Doc Library
