@@ -29,6 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:JST-SH
+LIBS:SparkFun
 LIBS:openxvario-cache
 EELAYER 25 0
 EELAYER END
